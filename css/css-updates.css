@@ -1,0 +1,712 @@
+@media (max-width:767px){
+	#booking .booking-info .info{clear:both;}
+}
+@media (max-width:480px){#booking .booking-info{padding-top:20px;}
+#booking .booking-info div.date{float:none;}
+#profile .personal-details figure{width:auto;}
+#booking .booking-info .info{float:none;width:auto;margin-top:10px;}
+#booking .booking-info .status{float:none;margin-bottom:15px;}
+}
+.dashboard.style1 #content, .dashboard.style2 #content{-webkit-backface-visibility:visible;}
+.search-box-wrapper.style1 .search-box:after{content:"";display:table;clear:both;}
+.search-box-wrapper.style1 .search-box > ul.search-tabs li > a:hover i{-webkit-animation:none;}
+.chaser .logo{margin-top:0;font-size:inherit;}
+.chaser .logo a{height:48px;line-height:48px;background-position:left center;}
+.chaser .logo img{display:inline-block;vertical-align:middle;max-height:100%;}
+.five-stars-container .five-stars:before, .five-stars-container.editable-rating .ui-slider-range:before{color:#fbb000;}
+p.pricedvvvv{float:left;width:37%;}
+p.pricedvvvv span.smallpric{margin-bottom:0px;}
+.coverimg .headingh2{text-align:left;font-size:24px;color:#2d3e52;margin-bottom:30px;}
+.tour-result-list-col>div, .tour-result-filter-col>div{background:#ffffff;padding:15px;border:1px solid #e2e2e2;}
+.tour-result-list-box{margin-bottom:15px;}
+.tour-result-list-box>h3{font-size:16px;font-weight:bold;color:#000000;background:#ffffff;margin:-15px;margin-bottom:15px;padding:10px 0px 0px 10px;border-bottom:1px solid #dddddd;}
+.tour-result-list-box img{width:100%;min-height:185px;}
+.tour-result-list-box ul li{margin-bottom:5px;color:#333333;}
+.tour-result-list-box ul li .fa{vertical-align:middle;margin-right:2px;color:#005f8a;font-size:18px;margin-right:7px;}
+.tour-result-list-box>h3 .fa{display:inline-block;vertical-align:middle;margin-right:10px;position:relative;top:-1px;}
+.placecoverdcol{border-right:1px dashed #e2e2e2;border-left:1px dashed #e2e2e2;min-height:185px;}
+.placecoverd>b{color:#000000;font-size:14px;display:block;margin-bottom:10px;}
+.placecoverd>span{display:block;margin-bottom:5px;}
+.packtype{color:#005f8a;font-size:14px;font-weight:bold;margin-top:-3px;margin-bottom:10px;}
+.packtype>span{color:#263f85;}
+#hotelDetailImgs .item img{width:100%;min-height:394px;max-height:394px;}
+#hotelDetailImgs .carousel-indicators{transition:all .5s;-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;bottom:0;width:10000%;margin:0;left:0;right:0;height:60px;top:initial;background:background:rgba(0, 0, 0, 0.32);}
+#hotelDetailImgs .carousel-indicators li img{width:100%;height:100%;}
+.tour-details-fullinfo-col>div{background:#ffffff;padding:15px;border:1px solid #e2e2e2;margin-bottom:15px;}
+.tour-details-fluid{padding-top:0px;padding-bottom:50px;background:#f5f5f5;}
+#hotelDetailImgs{overflow:hidden;}
+#hotelDetailImgs .carousel-indicators li{text-indent:0;width:80px;height:50px;overflow:hidden;border-radius:0;margin:initial !important;margin-top:5px !important;padding:3px;border:1px solid #9a9797;float:left;}
+#hotelDetailImgs .carousel-indicators li.active{background:#FECD2A;border-color:#FECD2A;}
+.packdetailstabpanel .nav-tabs{border:0;background:#263f85;margin:-16px;margin-bottom:15px;}
+.packdetailstabpanel .nav-tabs>li.active>a, .packdetailstabpanel .nav-tabs>li.active>a:hover, .packdetailstabpanel .nav-tabs>li.active>a:focus, .packdetailstabpanel .nav-tabs>li, .packdetailstabpanel .nav-tabs>li>a{margin:0;margin-bottom:0;background:none;border:0;padding:0;line-height:initial;height:initial;}
+.packdetailstabpanel .nav-tabs>li>a{padding:10px 9px !important;display:block;color:#ffffff;font-weight:normal;font-size:16px;}
+.packdetailstabpanel .tab-content>div{margin-bottom:15px;padding-bottom:15px;}
+.detailsoverview, .shortdetailsoverview{margin-bottom:15px;}
+.detailsoverview h2, .shortdetailsoverview h2{font-size:18px;font-weight:bold;color:#263f85;margin-bottom:10px;}
+.GroupDepartureboxtable{border:1px solid #e2e2e2;background:#ffffff;width:100%;}
+.GroupDepartureboxtable{border:1px solid #e2e2e2;background:#ffffff;width:100%;}
+.GroupDepartureboxtable, .GroupDepartureboxtable tr, .GroupDepartureboxtable tr td, .GroupDepartureboxtable tr th{padding:8px;}
+.GroupDepartureboxtable tr td{padding:11px;font-size:13px;border:1px solid #e4e1e1 !important;color:#333333;background:#fff !important;}
+.InclusionExclusionbox h2{font-size:18px;font-weight:bold;color:#263f85;margin-bottom:10px;}
+.accommodationbox h2{font-size:18px;font-weight:bold;color:#263f85;margin-bottom:10px;}
+.accommodationbox table{font-size:14px;border:1px solid #dddddd;}
+.Howtobookbox h2{font-size:18px;font-weight:bold;color:#263f85;margin-bottom:10px;}
+.GroupDepartureboxtable tr:nth-child(even) td{background:#EAF3F3 !important;}
+.tour-details-selected-pack-col>div{background:#ffffff;padding:10px;border:1px solid #e2e2e2;}
+.tour-details-selected-pack-col h2, .tour-details-selected-pack-col h3{font-size:16px;font-weight:normal;color:#005f8a;margin-bottom:15px;line-height:28px;}
+.tour-details-selected-pack-col img{width:100%;display:block;}
+.startingprice{color:#005f8a;font-size:14px;font-weight:bold;margin-top:-2px;margin-bottom:10;}
+.startingprice>span{display:block;font-size:24px;color:#263f85;}
+.bookpacknow{-webkit-border-radius:0px;-moz-border-radius:0px;-ms-border-radius:0px;-o-border-radius:0px;border-radius:0px;height:34px;padding:8px 15px;display:inline-block;background:#263f85;color:#ffffff !important;font-size:14px;max-width:120px;text-align:center;-webkit-transition:all .5s;-o-transition:all .5s;transition:all .5s;}
+.coninfo{margin:-15px;margin-top:15px;}
+.coninfo>span{display:block;background:#ffffff;border-top:1px solid #dddddd;padding:8px 15px;font-size:16px;font-weight:bold;color:#000000;}
+.discriptionpara{margin-top:25px;color:#333333;font-size:12px;}
+.nightandday{margin-top:10px;}
+.tour-result-fluid{padding-top:22px;padding-bottom:50px;background:#f5f5f5;}
+.nightandday span{margin-top:10px;}
+.nightandday a{border-radius:0;}
+.tour-details-fluid .box figure{width:100%;background-color:#fff;max-height:450px;margin-bottom:20px;}
+.startitenery>h3{font-size:18px;font-weight:bold;color:#263f85;margin-bottom:10px;}
+div.itinerary_title{background:#f0f0f0;-webkit-box-shadow:inset 0 0 5px rgba(0,0,0,.1);-moz-box-shadow:inset 0 0 5px rgba(0,0,0,.1);box-shadow:inset 0 0 5px rgba(0,0,0,.1);margin-bottom: 20px;clear:both;float:left;width:100%;}
+div.itinerary_title samp{float:left;padding:7px 20px;float:left;font-size:14px;font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;min-height:26px;line-height:26px;}
+div.itinerary_title samp:nth-child(1){background-color:#005f8a;position:relative;color:#ffffff;}
+div.itinerary_title samp:nth-child(1):after{left:100%;top:50%;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none;border-color:rgba(255,213,37,0);border-left-color:#005f8a;border-width:10px;margin-top:-10px;}
+ul.itnry_ul li:nth-child(1){background:none;border:none;box-shadow:none;font-weight:bold;font-size:15px;padding-left:0px;}
+ul.itnry_ul li{list-style:none;display:inline-block;background:#f0f0f0;-webkit-box-shadow:inset 0 0 5px rgba(0,0,0,.1);-moz-box-shadow:inset 0 0 5px rgba(0,0,0,.1);box-shadow:inset 0 0 5px rgba(0,0,0,.1);padding:5px 15px;margin-right:11px;-webkit-border-radius:20px;-moz-border-radius:20px;-ms-border-radius:20px;-o-border-radius:20px;border-radius:20px;}
+#Itinerary p{color:#333;font-size:13px;}
+.InclusionExclusionbox h2{font-size:18px;font-weight:bold;color:#263f85;margin-bottom:10px;}
+#hotelDetailImgs .carousel-indicators li img{width:100%;height:100%;}
+h4.pages_hedsl{position:absolute;z-index:1;top:0px;color:#fff;background-color:rgba(0, 0, 0, 0.57);width:100%;margin:0px;padding:8px 15px;font-size:22px;}
+.maincontentfluid .main-color{text-align:center;background-color:#263f85;color:#fff;padding:7px 9px;font-size:17px;}
+.maincontentfluid{margin-bottom:27px;}
+.maincontentfluid p{font-size:16px;text-align:justify;margin-bottom:8px;    font-family: quicksand,sans-serif;}
+.maincontentfluid .pb15{margin-top:29px;padding:9px 15px;box-shadow: 0 3px 6px rgba(0,0,0,.1);border: 1px solid #e4e0e0;}
+.image_mspecial img{width:100%;height:230px;}
+.flight_rdetail{padding:16px;}
+.gdetail{padding-left:0px;padding-right:0px;}
+.kdeal{margin-bottom:30px;}
+.grow_deal{margin-bottom:30px;margin-left:15px;margin-right:15px;}
+.grow_deal .col-md-4{padding-left:0px;padding-right:0px;}
+.detail_location{font-size:18px;color:#323232;line-height:24px;margin-bottom:7px;font-weight:bold;}
+.discount_price{font-size:18px;color:#323232;padding-right:5px;font-weight:bold;}
+.flight_dprice{background:#fafafa;padding:20px 16px;border-top:solid 1px #ccc;}
+.main_sdeal{width:100%;background-color:#fff;box-shadow:0 0 2px 0 rgba(0,0,0,.16);border:1px solid #ccc;}
+.flight_sday{color:#666;font-size:14px;}
+.info_hotel{font-size:14px;margin-bottom:0px;}
+.coverimg{position:relative;padding-top:30px;padding-bottom:20px;}
+.special_pack_box .thumbnail{padding:0px;overflow:hidden;margin-bottom:30px;width:100%;background-color:#f5f5f5;border:0px solid #ececec;border-radius:0;}
+.coverimg .text_abs h3{color:#000000;overflow:hidden;font-size:16px;}
+.special_pack_box .thumbnail>a{display:block;position:relative;cursor:pointer;}
+.special_pack_box .thumbnail img{width:100%;height:250px;}
+.special_pack_box .package-ratting{position:absolute;top:15px;right:15px;font-size:14px;color:#ffffff;-webkit-text-shadow:2px 2px 2px #000000;-moz-text-shadow:2px 2px 2px #000000;-ms-text-shadow:2px 2px 2px #000000;-o-text-shadow:2px 2px 2px #000000;text-shadow:2px 2px 2px #000000;}
+.special_pack_box figcaption{padding:15px 15px 0px 15px;}
+.special_pack_box .thumbnail .caption{padding:0px;color:#a9a9a9;}
+.tour-details-selected-pack-col .nightandday .btn{background-color:#263f85;border:1px solid #002633;}
+.special_pack_box .thumbnail .search-button{outline:none;text-transform:capitalize;font-weight:normal;width:initial;margin:0 auto;height:38px;margin-bottom:12px;margin-top:18px;font-size:14px;letter-spacing:1px;color:#005f8a;display:block;width:40%;min-width:135px;background:none;border:1px solid #ed8a2e;-webkit-border-radius:20px;-moz-border-radius:20px;-ms-border-radius:20px;-o-border-radius:20px;border-radius:20px;}
+.special_pack_box .viewcbtncen{text-align:center;}
+.special_pack_box .thumbnail .search-button:hover{background:#ed8a2e;color:#ffffff;border:1px solid #ed8a2e;}
+input.input-text, select, textarea, span.custom-select{outline:none;}
+#travelo-login .forgot-password{font-weight:normal;padding-right:0px;}
+#travelo-login .btnpdd{padding:10px 0px;}
+#travelo-login p a.goto-signup{font-weight:normal;}
+.right_sday{padding-right:0px;}
+.price_average{margin-bottom:16px;font-size:15px;color:#666;}
+.price_qdate{font-size:14px;color:#333333;padding-left:27px;font-weight:normal;}
+.all_fprice{display:none;position:relative;top:-20px;background-color:#fafafa;}
+.flight_sday img{width:13px;margin-right:5px;margin-bottom:1px;}
+.fprice{display:block;}
+.all_fprice ul{border:1px solid #ccc;border-radius:3px;margin:0;padding:0;list-style:none;}
+.special_deal h3{margin-bottom:35px !important;}
+.deal_book{font-size:16px;color:#263f85;animation:fadeIn 1s;}
+.deal_book:hover{color:#FF9800;}
+.view_gmore{font-size:14px;color:#263f85;}
+.all_fprice ul li{display:block;padding:20px 20px;cursor:pointer;border-bottom:solid 1px #ccc;}
+.all_fprice ul li:hover{background:#eaf6f3;}
+.padding10{padding:0 10px !important;}
+.email-signup .selector{width:30%;float:left;margin-bottom:10px;}
+.mobile-field{width:70% !important;float:right;}
+.travelo-signup-box .email-signup{display:block;}
+p{color:#333;}
+.flight_agent li{display:inline-block;padding:0px 0px 10px 0px;}
+.flight_agent li a{font-size:15px;color:#263f85;font-weight:500;padding:5px 0px 20px 3px;border-top:2px solid #fff;}
+.flight_agent li:nth-child(1) span{border-right:1px solid #ccc;padding-right:10px;}
+.flight_agent li:last-child a{border-right:none;}
+.popular_head h1{padding:10px 10px;}
+.flight_agent span{font-size:16px;color:#263f85;padding-left:4px;}
+.support_num{padding-right:0px;}
+.flight_newsletter{padding-top:80px;}
+.newsletter{margin-bottom:20px;padding-bottom:50px;}
+.flight_newsletter{padding-top:50px;}
+.tconnect h1{font-size:18px;font-weight:bold;color:#263f85;}
+.flight_newsletter .form-control{height:40px;border-radius:0px;}
+.flight_newsletter .col-lg-8,.flight_newsletter .col-lg-8 .col-sm-8,.flight_newsletter .col-lg-8 .col-sm-4,.social_icons .col-lg-4{padding-left:0px;padding-right:0px;}
+.fare_time{padding-left:0px;padding-right:0px;}
+.news_submit{padding:10px 33px;font-size:18px;text-transform:uppercase;background-color:#fbb000;color:#fff;border:1px solid #fbb000;text-transform:capitalize;}
+.flight_tollfree{font-size:18px !important;}
+.header_flight .col-sm-10{padding-top:12px;padding-right:0px;}
+.flight_trip li{display:inline-block;}
+.popular_row{margin-left:-5px;margin-right:-5px;}
+.one_way{padding-left:12px;}
+.flight_trip label{font-size:14px;color:#fff;}
+.search_flight{background:url('../images/images-flight.jpg');background-size:cover;padding-bottom:40px;background-position:0px -200px;}
+.search_flight .col-lg-10{background:rgba(45, 103, 178, 0.79);margin-top:34px;}
+.search_flight .form-control{border-radius:0px;height:47px;}
+.city_icon{color:#fff;font-size:26px;border:1px solid #fff;border-radius:50%;padding:5px 10px;top:12px;position:relative;left:3px;}
+.return_book .col-md-5{padding-left:0px;padding-right:0px;}
+.return_book .col-sm-6{padding-left:0px;padding-right:4px;}
+.return_book label{font-size:14px;color:#fff;padding-top:10px;font-weight:normal;}
+.book_button{float:right;margin-right:95px;}
+.flight_button{padding:15px 34px;font-size:19px;background-color:#fbb000;color:#fff;border:1px solid #263f85;margin-top:19px;margin-bottom:20px;}
+.flight_deal{padding-top:45px;padding-bottom:45px;padding-left:0px;padding-right:0px;}
+.flight_deal .col-lg-6{padding-left:8px;padding-right:8px;}
+.search_flight h1{color:#fff;padding-top:31px;font-size:30px;padding-left:17px;}
+.custom-md8{border:1px solid #2d82d3;background:#fff;}
+.todaydeals{background:#fff;padding:11px 0px 11px 0px;}
+.service_flight{padding-top:20px;background-color:#ffba4a;padding-bottom:20px;}
+.service_flight h3{margin:0 0 4px;color:#fbb000;text-transform:uppercase;font-size:16px;}
+.flight_travel1{background-color:#fff;*/background:#fff;padding:19px 20px;-webkit-box-shadow:0 1px 2px #ccc;-moz-box-shadow:0 1px 2px #ccc;box-shadow:0 1px 2px #ccc;min-height:152px;}
+.flight_trip,.return_book{margin-bottom:9px;}
+.bflight_travel img{width:75%;padding-top:10px;}
+.bflight_travel .col-sm-10,.bflight_travel .col-sm-2{padding-left:0px;padding-right:0px;}
+.bflight_travel p{text-align:justify;font-size:13px;line-height:19px;font-weight:normal;color:#666;}
+.main_desti{background-color:#fff;border-left:1px solid #fbb000;border-right:1px solid #fbb000;}
+.newsletter{background-color:#f7f7f7;}
+.newsletter h3{text-transform:uppercase;margin-bottom:10;color:#263f85}
+.social_icons{}
+.social_icons img{width:100%;display:block;-webkit-transition:all .5s;-o-transition:all .5s;transition:all .5s;}
+.social_icons ul li a{display:inline-block;overflow:hidden;}
+.social_icons ul li a.facebook{height:32px;width:152px;}
+.social_icons ul li a.twitter{height:80px;width:90px;}
+.social_icons ul li a.instragram{height:98px;width:125px;}
+.social_icons ul li a.googleplus{height:41px;width:138px;}
+.social_icons ul li a.youtubee{height:68px;width:150px;}
+.social_icons ul li a.facebook:hover img{margin-top:-32px;}
+.social_icons ul li a.twitter:hover img{margin-top:-80px;}
+.social_icons ul li a.instragram:hover img{margin-top:-98px;}
+.social_icons ul li a.googleplus:hover img{margin-top:-41px;}
+.social_icons ul li a.youtubee:hover img{margin-top:-68px;}
+.social_icons ul{position:relative;width:100%;height:200px;}
+.social_icons ul .facebook-li{position:absolute;left:0;top:0;}
+.social_icons ul .youtubee-li{position:absolute;right:0;top:0;}
+.social_icons ul .twitter-li{position:absolute;left:0;right:0;top:60px;display:block;margin:0 auto;text-align:center;width:90px;}
+.social_icons ul .instragram-li{position:absolute;left:0;bottom:0;}
+.social_icons ul .googleplus-li{position:absolute;right:0;bottom:0;}
+.newsletter .social_icons{padding-top:28px;}
+.newsletter .social_icons li a .fa{font-size:16px;}
+.newsletter .social_icons ul li{display:block;}
+.pdeal_flight{border:1px solid #263f85;}
+.newsletter .social_icons ul li a:hover{color:#fff;}
+.newsletter .social_icons ul{}
+.tconnect ul li a{font-size:14px;padding-left:5px;color:#333;text-transform:uppercase;}
+.tconnect ul li span{font-size:22px;position:relative;color:#666;}
+.tconnect ul li{line-height:23px;}
+.tconnect ul li span .fa{font-size:19px;border-radius:50%;padding:5px 5px;color:#263f85;margin-bottom:8px;padding-top:6px;font-size:19px;border:2px solid #263f85;border-radius:50%;width:40px;height:37px;text-align:center;}
+.select_arrow{position:absolute;right:13px;top:48px;width:19px;}
+.copyright{background-color:#263f85;color:#fff;padding-top:10px}
+.copyright p{font-size:16px;text-align:center;color:#fff;}
+.tconnect{margin-bottom:45px;padding-top:20px;}
+.flight_customer li{display:inline-block;padding-left:14px;line-height:14px;color:#263f85;font-size:16px;}
+.tcustomer{position:relative;top:7px;}
+.flight_customer{margin-bottom:11px;padding-top:2px;}
+.flight_support{padding-left:0px;padding-right:0px;}
+.flight_support img{position:relative;}
+.date_deal{position:relative;left:20px;top:10px;}
+.tcustomer{font-size:12px !important;}
+.date .fa{position:absolute;top:43px;z-index:999;left:9px;font-size:23px;}
+.book_pull{margin-top:0px !important;}
+.date .form-control{padding-left:42px;}
+.travel_image{width:21px;position:absolute;top:44px;left:4px;}
+.time_support{font-weight:bold;}
+.book_travel{padding-left:33px;}
+.footer_social li a{padding-left:20px !important;}
+.address{position:relative;width:100%;float:left;margin-bottom:7px;}
+.address i{float:left;padding-top:6px;font-size:19px;border:2px solid #263f85;border-radius:50%;width:40px;height:37px;text-align:center;color:#263f85;background:rgba(255, 186, 74, 0.97);}
+.address p{padding-left:45px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;padding-top:5px;font-size:14px;}
+.deal-fare{position:absolute;font-size:25px;font-style:normal;font-weight:400;color:#263f85;text-align:right;right:0%;top:33%;}
+.deal-fare sup{font-size:12px;top:-.8em;margin-right:0;font-style:normal;position:relative;}
+.list_deal{padding-left:10px;}
+.list_deal li{display:inline-block;}
+.mlist_deal .col-sm-12,.mlist_deal .col-sm-8{padding-left:0px;padding-right:0px;}
+.tflight1{font-size:16px;}
+.pmain_flight{border-bottom:2px dotted #fbb000;padding-bottom:25px;padding-top:10px;}
+.date_deal a{font-size:17px;color:#263f85;font-weight:bold;}
+.date_deal span{color:#263f85;}
+.head_deal{background-color:#263f85;padding-top:10px;}
+.head_deal h1{color:#fff;text-align:center;}
+.deal_image{width:100%;}
+.popular_head{padding-left:0px;padding-right:0px;}
+.flight_more{background-color:#263f85;padding:5px 18px;color:#fff;font-size:15px;text-transform:capitalize;border:1px solid #263f85}
+.pmain_flight1{border-bottom:1px solid #fbb000;padding-bottom:25px;padding-top:15px;padding-left:0px;padding-right:0px;}
+.list_deal1 li{display:inline-block;}
+.pmain_flight3{border-bottom:1px solid #fbb000;padding-bottom:8px;padding-top:21px;position:relative;padding-left:0px;padding-right:0px;}
+.pmain_flight3 .col-xs-4{padding-right:0px;}
+.pmain_flight2{padding-bottom:8px;padding-top:21px;padding-left:0px;padding-right:0px;}
+.pmain_flight1 .col-sm-8,.pmain_flight3 .col-sm-9,.pmain_flight2 .col-sm-8{padding-left:3px;padding-right:0px;}
+.pmain_flight:hover, .pmain_flight1:hover,.pmain_flight2:hover{background-color:#f5f5f5;cursor:pointer;}
+.popular_head{background-color:#f5f5f5;}
+.popular_row{margin-left:5px;margin-right:5px;}
+.flight_cdeal{position:absolute;color:#118acb;text-align:right;right:0%;top:68px;background-color:#263f85;z-index:1111;padding-top:10px;}
+.flight_cdeal h5{font-size:22px;text-align:center;color:#fff;}
+.flight_cdeal:before{content:"";position:absolute;width:0;height:0;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:10px solid #263f85;top:-10px;right:10px;}
+.tdepart{padding-top:17px;color:#716d6e;background-color:#efe9e9;font-weight:400;height:43px;padding-top:14px;white-space:nowrap;position:relative;font-size:17px;}
+.form-group .rdeal{margin-bottom:8px;font-size:15px;height:44px;}
+.flight_cdeal .form-group{padding-left:21px;padding-right:21px;}
+.flight_select{background:url('/flyonmobile/uploads/user-pic/images/arrow.PNG') no-repeat 104% center;padding:9px 0px 9px 10px;background-color:#fff;background-size:19px 20px;background-position:71px 10px;}
+.flight_select{-moz-appearance:none;-webkit-appearance:none;}
+.form-group .col-sm-4{padding-left:4px;padding-right:0px;}
+.cus-form-control{border-radius:0px;-moz-border-radius:0px;-o-border-radius:0px;-ms-border-radius:0px;padding:6px 10px;height:38px !important;font-size:13px;cursor:pointer}
+.tselect .col-sm-4 label{text-align:left;margin-right:55px;font-size:17px;color:#fff;}
+.deal_button{width:100%;padding-top:10px;padding-bottom:14px;font-size:24px;background-color:#fbb000;border:0;color:#fff;margin-bottom:6px;margin-top:10px;}
+.tdepart img{width:24px;position:absolute;left:10px;top:13px;}
+.close_image{position:absolute;top:7px;right:8px;width:22px;z-index:999;cursor:pointer;}
+.flight_cdeal{display:none;}
+.flight_review{margin:0 auto;max-width:960px;width:100%;}
+.review_detail li{display:inline;padding-left:9px;font-size:14px;color:#333;}
+}
+.treview_book strong{padding-left:6px;}
+.flight_breview{padding-top:20px;}
+.treview_book strong{font-weight:500;padding-left:10px;}
+.review_date{color:#333;font-size:18px;padding-left:10px;}
+.treview_book{font-size:20px;padding-left:20px;}
+.thour{color:#fbb000;font-size:13px;}
+.book_refund p{display:inline-block;font-size:13px;color:#263f85;}
+.book_refund span{background-color:#fbb000;color:#fff;padding:2px 5px;margin-left:8px;}
+.book_mdetail{border:1px solid #e5e5e5;margin-top:10px;padding-top:17px;background:#fff;}
+.gbook_review{margin-bottom:4px;font-size:18px;color:#333;}
+.gbook_review span{font-size:20px;padding-left:6px;}
+.tinfo{color:#666;font-size:14px;top:-6px;position:relative}
+.hbook small{font-size:11px;color:#666;}
+.txtRight{text-align:right;}
+.img_info img{width:100%;max-height:35px;padding-right:5px;padding-top:2px;}
+.img_info{padding:0 !important;}
+.minfo{padding-left:7px;}
+.minfo p{margin-bottom:0px;}
+.d_info1{font-size:18px;color:#333;}
+.d_info2{color:#999;margin-top:-4px;}
+.d_info3{color:#fbb000;font-size:13px;}
+.txtCenter{text-align:center;}
+.fbook{margin-top:10px;}
+.treview_book span{background:#fbb000;border-radius:20px;-webkit-border-radius:20px;-moz-border-radius:20px;padding:7px 13px;font-size:18px;color:#fff !important;line-height:1;color:#666;}
+.detail_travel p{display:inline;}
+.treview_book1{padding-left:8px;padding-right:8px;font-size:15px;text-transform:capitalize;}
+.treview_book1 span{padding-left:8px;}
+.treview_book1 span a{cursor:pointer;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;padding:7px 15px;text-align:center;color:#fff;border:0;font-size:14px;background-color:#fbb000;}
+.review_book2{font-size:15px;color:#666;}
+.sreview{padding-left:0px;}
+.review_book .col-lg-12 .row{margin-left:35px;margin-right:35px;}
+.detail_travel1{margin-left:36px;width:93%;}
+}
+.book_refund{padding-right:0px;}
+.detail_travel{margin-top:50px;margin-bottom:14px}
+.detail_travel1 p{margin-left:10px;background-color:#263f85;padding:5px;font-size:12px;}
+.detail_travel1 b{background-color:#fbb000;padding:3px 3px;color:#fff;}
+.detail_travel1 p span{padding-left:12px;color:#fff;}
+.flight_padding{padding:0px;}
+.flight_pselect{background-position:84px 10px;}
+.detail_vform{border-radius:0px;height:38px;}
+.detail_label{padding-right:0px;}
+.book_hflight{padding-right:6px;padding-left:0px;}
+.detail_label label{font-size:14px;color:#666;text-transform:capitalize;padding-top:10px;}
+.padd0{padding-left:5px;padding-right:5px;}
+.detail_mark .fa{font-size:27px;border:1px solid #fbb000;border-radius:50%;padding:4px 10px}
+.detail_mark{position:relative;cursor:pointer;display:inline-block;}
+.tip.white{background:#fff;color:#666;}
+.book_email{font-size:12px;color:#999;position:relative;top:10px;}
+.margin-form{margin-bottom:12px;}
+.mail_book{width:25px;position:absolute;top:10px;left:26px;}
+.sbook_flight{background:#fff;-webkit-box-shadow:0 0 30px 0 rgba(33, 30, 25, .1);-moz-box-shadow:0 0 30px 0 rgba(33, 30, 25, .1);box-shadow:0 0 30px 0 rgba(33, 30, 25, .1);margin-left:25px;width:95%;padding-top:30px;margin-bottom:30px;}
+.margin-form label{font-size:15px;color:#000;font-weight:700;text-transform:capitalize;padding-left:14px;margin-bottom:10px;}
+.select .form-control{border-radius:0px;}
+.book_travel{padding-left:6px;}
+.sbook_flight .form-control{border:1px solid rgba(0, 0, 0, 0.3);box-shadow:none;}
+.book_hflight1 label{padding-left:0px;}
+.passport_option{padding-left:0px;padding-right:5px;}
+.book_pull .weight_book{position:relative;right:81px;}
+.placeheading{margin-left:28px;}
+.flight_icon1{top:15px;}
+.flight_icon1 .smallinline{padding-left:5px;}
+.book_mddetail .col-sm-2{padding-right:0px;}
+.book_mdetail .mt10{margin-top:-15px;padding-left:0px;}
+.weight_book,.weight_book .col-md-6{padding-left:0px;padding-right:0px;}
+.book_passenger{color:#000;padding:5px 10px;margin-left:28px;font-weight:500;font-size:18px;}
+.fpassenger{margin-top:10px !important;}
+.page-title-container p{color:#fff;top:10px;position:relative;font-size:14px;}
+.smallinline1{position:relative;right:6px;color:#006400;}
+.book_xdetail{padding-left:22px !important;}
+.smi3{padding-left:6px;}
+.gpassenger{font-size:18px;font-weight:600;color:#082547;line-height:1;}
+.svg-bg-icon{display:inline-block;margin-right:15px;background-repeat:no-repeat;background-size:contain;vertical-align:bottom;}
+.svg-passengers{width:37px;height:37px;background:url(../fonts/images-passenger-gradient.svg);}
+.ticket_info{display:inline-block !important;padding-left:10px;}
+.passengerdiv{padding-bottom:15px;}
+#user_login_model .close{background-color:#fbb000;opacity:1;color:#000;padding:1px 8px;border-radius:5px;font-size:25px;line-height:29px;}
+#user_login_model button:hover{border:none;}
+#user_login_model .modal-header{border-bottom:1px dotted #263f85;}
+#user_login_model .input-text{margin-bottom:7px;}
+#user_login_model form label{text-transform:capitalize;color:#333;}
+#user_login_model form .form-group{padding-bottom:8px;margin-bottom:0px;}
+#user_login_model .booking-login-user,#user_login_model .booking_as_guest{}
+#user_login_model .booking-forgot-password{background-color:#fbb000;color:#fff;padding:6px 4px;}
+.book_forget{padding-top:5px;}
+#user_login_model .modal-body{padding:0px;padding-top:10px;padding-left:22px;padding-right:!0px;padding-bottom:12px;}
+#MyModalForModify .close{opacity:1;background-color:#263f85;color:#fff;border-radius:50%;height:21px;width:25px;padding-bottom:25px;}
+#MyModalForModify .modal-header{border-bottom:1px dotted #263f85;}
+#MyModalForModify .modal-body{padding-top:10px;padding:0px;padding-left:10px;padding-right:10px;}
+.choose-travel .col-xs-3{padding-left:0px;}
+.btn-medium{width:50%;}
+.sd_button{margin-bottom:9px;}
+.fare_rule{color:#333;}
+.mclicktoshow{border-radius:0px;}
+.oneway_button{top:0px !important;}
+.repeat-box .result-row{padding-top:24px !important;padding-bottom:6px !important;}
+.field a{color:#263f85;font-size:14px;}
+.field{margin-bottom:7px;}
+.field-center{text-align:center;}
+.detail_ximage{width:165px;height:8px;margin-left:-20px;background:url(../images/images-d2.png);display:inline-block;background-position:-6px -45px;}
+.book_dseat small{text-align:center;margin-top:-5px !important;}
+.result-row{padding-bottom:0;}
+.result-row a.badge:hover, a.badge:focus{color:#fe661e;}
+.center_gtime{text-align:center;}
+.airline_dimage{padding-left:0px;padding-right:0px;}
+.book_fare{padding-left:0px;padding-right:0px;}
+.field .col-lg-1{padding-left:0px;}
+.mobile_bookbtn{padding-left:0px;padding-right:8px;}
+.Farequote{top:4px !important;}
+.modify_search{color:#fff;}
+.modify_form{border-radius:0px;background-color:#263f85;box-shadow:none;font-size:16px;height:33px;border:1px solid #fff;}
+.modify_search label{font-size:16px;font-weight:normal;}
+.modify_search .pd10{border:none;}
+.modify_search div.pax_downdv{width:480px;display:none;}
+.modify_search samp{color:#333;}
+.modify_search small{display:block;font-size:80%;}
+.modify_search div.pax_downdv{left:-144px;top:48px;}
+.modify_search .before_aro:before{right:248px;}
+.modify_search .form_label{padding-left:20px;text-align:center;color:#333;}
+.modify_search .form-control:focus{box-shadow:none;color:#fff;}
+.modify_eicon span{position:relative;top:9px;font-size:28px;padding:2px 5px;right:11px;color:#fff;}
+.modify_eicon{padding-bottom:8px;margin-top:-3px;}
+.modify_row{margin-left:0px;padding-left:0px;padding-right:0px;}
+.book_fmodify{padding-right:0px !important;}
+.modify_row .col-lg-5{padding-left:0px;padding-right:7px;}
+.modify_row .col-lg-5 .col-md-6{padding-left:0px;}
+.modify_row .col-lg-5 .col-md-5,.modify_row .col-lg-3 .col-md-6{padding-left:5px;padding-right:5px;}
+.modify_row .form-control{border:1px solid #c5bcbc;color:#333;border-radius:4px;text-transform:capitalize;margin-bottom:10px; outline: none;}
+.modifyshow .radio_dv5{margin-top:0px;}
+.modify_row .form-control[readonly]{}
+.modify_row .form-control[disabled]{}
+.modify_row .form-control:focus{box-shadow: 0 0 0 0;-webkit-box-shadow: 0 0 0 0;-moz-box-shadow: 0 0 0 0;}
+.modify_row .datepicker-wrap:after{color:#a09292;}
+.modify_row .datepicker-wrap:after{background:none;}
+.modify_row div.paxcount_dv5 label.pamo{    margin-top: 6px;
+    position: relative;
+    bottom: 11px;
+    display: block;
+    width: 100%;}
+.modify_row div.ClsPd3{    padding-left: 0px;
+    padding-right: 5px;}
+.modify_row div.paxcount_dv5{    border: none;height: 34px;
+    border-bottom: 1px solid hsla(224, 41%, 55%, 0.66);
+    padding-left: 2px;
+    padding-right: 2px;}
+.modify_row div.paxcount_dv5 label span{font-weight:normal;text-transform:capitalize;color:#ffffff;font-size:14px;}
+.modify_row .select_symbol5{right:10%;}
+.modify_row .pselect .modify_form{background:none;color:#ffffff;font-size:15px;}
+.modifybg{padding:5px 0px 0px 0px;}
+.page-title + div{margin-top:0 !important;}
+.pselect .form-control{color:#fff;}
+.modify_button{padding-left:0px;padding-right:0px;}
+.search_button{background-color:#fbb000;color:#fff;border:1px solid #fbb000;padding:7px 26px;font-size:15px;margin-left:3px;}
+.modify_search{padding-bottom:20px;padding-top:10px;}
+.tradio{background-color:#fbb000;}
+.modify_search .way_radio{margin-left:0px;}
+.modify_search div.paxcount_dv5{background-color:#263f85;padding:7px 10px;height:34px;border:1px solid #fff;}
+.modify_search div.paxcount_dv5 label span{color:#fff;}
+.modify_search div.paxcount_dv5 label{margin-top:-10px;}
+.modify_search::-webkit-input-placeholder{color:#ccc;}
+.modify_search::-moz-placeholder{color:#ccc;}
+.modify_search:-ms-input-placeholder{color:#ccc;}
+.modify_search:-moz-placeholder{color:#ccc;}
+.aq_icon{padding-left:14px;font-size:25px;top:2px;position:relative;}
+.pcalender{position:absolute;left:8px;width:23px;top:5px;}
+.date_form{padding-left:40px;}
+.flight_logo{padding-left:0px;padding-right:0px;}
+.flight_logo .col-sm-2 img{height:78px;}
+.book_vselect{padding-left:0px;padding-right:0px !important;}
+.modify_search .form-control:focus{border-color:#fff;}
+.book_arrive{padding-left:3px;}
+.onereturnheadingfield .book_arrive{padding-left:3px;width: 21%;}
+.book_pull .smallinline{margin-bottom:8px;}
+.book_mdetail .flight_icon1{top:0px;}
+.flight-detail-row .details-nav-tabs li{width:15%;display:inline-block;}
+.flight-detail-row .minmediapr0{padding-left:0px;}
+.innerrow>div{margin-bottom:5px;}
+.inner-child ,.dep_arri_icon{position:static !important;}
+.inner-child.ui-datepicker{position:absolute !important;width:20em !important;}
+.flight-detail-page .placeheading{margin-bottom:10px;}
+#topmaindiv{padding-top:10px;}
+.sdetail{margin-left:92px;}
+.pdetail:before{content:" ";display:block;width:0;height:0;border-top:20px solid transparent;border-bottom:20px solid transparent;border-left:16px solid #FF8C00;position:absolute;top:50%;margin-top:-20px;left:100%;z-index:1;}
+li.active:before{border-left:16px solid #006400 !important;}
+.sdetail li.active:after{border-left:14px solid #fbb000;}
+.details-nav-tabs li{text-align:left !important;}
+.sdetail .nav>li>a{text-align:center;padding-left:27px;}
+.pdetail:after{content:" ";display:block;width:0;height:0;border-top:20px solid transparent;border-bottom:20px solid transparent;border-left:14px solid #263f85;position:absolute;top:50%;margin-top:-20px;left:100%;z-index:2;}
+.sdetail .details-nav-tabs li{border-top:1px solid #B22222;border-bottom:1px solid #B22222;}
+.fbook_date{padding-left:0px;padding-right:0px;}
+.fbook_date .pselect{padding-left:0px;padding-right:2px;}
+.modify_search{background:#263f85;padding-top:9px;padding-bottom:17px;}
+.book_tfare{padding-left:0px;}
+.book_weight{padding-left:5px;}
+.brsdo{border:1px solid #e6e0e0;margin-bottom:15px;background-color:#fff;}
+.book_mround{transition:all 1s;-webkit-transition:all 1s;-moz-transition:all 1s;}
+.book_mround:hover{background:#fff;box-shadow:0px 0px 11px 5px #f3d6d6;cursor:pointer;position:relative;}
+.book_active{background:#263f85 !important;}
+.roundtripspecialcasediv a{font-size:13px !important;font-weight:normal !important;}
+.book_mround .badge{background:none;color:#333;position:relative;top:-2px;font-size:13px;left:10px;}
+.book_mround .mgbtm10{padding-top:4px;padding-bottom:6px;}
+.book_mround samp,.book_mround .mgbtm10 a,.book_mround .FlightToggleParent a{font-size:13px;}
+.minmediapl0{margin-bottom:27px;}
+.book_kdetail{margin-bottom:0px;}
+.bottom .copyright{padding-top:6px;padding-left:10px;padding-right:10px;padding-bottom:6px;}
+.bottom .copyright p{margin-bottom:0px;}
+.book_mround .display_block:focus{color:#fff;}
+.bottom_position samp{font-size:13px !important;}
+.bottom_position .flighticon{float:left;position:relative;right:6px;}
+.bottom_position .rt_md1_logo{width:20%;}
+.bottom_position .badge{background:#fbb000;padding:8px 5px;left:7px;position:relative;border-radius:initial;top:-3px;font-size:13px;}
+.bottom_position .sct_rt_pric samp{font-size:20px !important;}
+.bottom_position .sct-book{padding:5px 27px;}
+.bottom_position .sct-book:hover{color:#fff;}
+.bottom_position .sct_rt-sow{padding:12px 0px;} 
+.inner-child input[type=hidden]{margin-top:-10px;}
+.book_gdate{margin-bottom:1px !important;}
+.book_gdate img{display:none !important;}
+.flight_logo #header{}
+.flight_agent{left:10px;position:relative;}
+.refund-center{text-align:center;}
+.book_udate{position:relative;top:5px;}
+.roundtripspecialcasediv{padding-left:0px;padding-right:0px;width:564px;margin:0 auto;}
+.roundtripspecialcasediv a{padding:0 14px !important;}
+.OtherSearchFormShow hr{margin-top:16px;margin-bottom:7px;border-color:#f5f5f5;}
+.page-title-container{margin-bottom:0px;}
+.search-content .radio_dv5{margin-bottom:6px;color:#fff;padding-top:5px;padding-left:0px;padding-right:0px;margin-left:-15px;}
+.search-content{padding-left:0px;padding-right:0px;padding-bottom:10px;}
+.search-content::placeholder{color:#ccc;font-size:13px;}
+.book_adult{padding-left:0px;padding-right:5px;}
+.search-content div.pax_downdv{top:46px;}
+.search-content .pd10{padding:7px 6px;}
+.search-content .form-control{border-radius:0px;}
+.search-content .has-error .help-block{color:#FFF;font-size:12px;margin-bottom:0px;}
+.page-title-container1{height:56px;background:#2e68b2;margin-bottom:28px;}
+.page-title-container1 .page-title .entry-title{line-height:56px;color:#fff;margin:0;}
+.page-title-container1 .breadcrumbs{height:100%;}
+.page-title-container1 .breadcrumbs li{float:left;line-height:56px;display:inline;margin-left:5px;font-size:14px;font-weight:bold;text-transform:uppercase;}
+.page-title-container1 .breadcrumbs li a{padding-right:5px;color:#fff;}
+.page-title-container1 .breadcrumbs li:after{content:"/";color:#fff;}
+.page-title-container1 .breadcrumbs li.active{color:#ed8a2e;}
+.page-title-container1 .breadcrumbs li:last-child:after{content:"";}
+.book_vinfo .form-control{width:92%;height:38px;}
+.book_vinfo label{font-size:17px;color:#333;margin-bottom:10px;}
+.button_submit{background-color:#263f85;color:#fff;padding:0px 27px;font-size:14px;border:1px solid #263f85;}
+.tour-result-list-box .five-stars-container{margin-right:10px;}
+.book_vinfo{background-color:#fff;box-shadow:0px 2px 10px 0px;padding-top:20px;padding-bottom:10px;padding-left:41px;margin-bottom:59px;}
+.map{margin-bottom:50px;}
+.book_address .fa{background-color:#263f85;font-size:30px;color:#fff;width:58px;height:51px;padding-top:10px;}
+.book_address .col-md-12{margin-bottom:20px;}
+.info_gaddress{font-size:17px;display:block;margin-top:-7px;color:#333;font-weight:bold;}
+.book_address p{font-size:15px;}
+.book_address h1{padding-left:10px;margin-bottom:25px;}
+.book_area{height:auto !important;}
+.fly_mform,.fly_mform1{padding-left:0px;padding-right:0px;}
+.input_dv51{padding-left:0px;padding-right:0px;}
+.fly_location{padding-right:0px;}
+.fly_location1{padding-left:0px;}
+.fadd{padding-top:0px !important;}
+.modify_eicon1{width:4% !important;}
+.location_row{margin-right:-22px !important;}
+.modify_row .search_btn{padding:0px 20px;border-radius:0px 4px 4px 0px;background-color:#ff862d;height:38px !important;font-size:18px !important;}
+.modify_row .selector select{height:34px;background:#263f85;color:#fff;font-size:15px;}
+.modify_rowmulti .selector select{margin-top: 24px;}
+.sadult_row label{color:#fff;font-size:14px !important;}
+.modify_row .selector span.custom-select:after{position:absolute;right:9px;top:15px;border-top:5px solid #fff;border-left:3px solid #263f85;border-right:3px solid #263f85;content:"";}
+.modify_row .selector span.custom-select:before{position:absolute;right:0;top:0;content:'';background:#263f85;width:24px;height:100%;}
+.modify_row span.custom-select{background: #263f85 !important;
+    color: #fff;
+    border: 1px solid #c5bcbc;
+    border: none;
+    border-bottom: 1px solid hsla(224, 41%, 55%, 0.66);
+    font-size: 14px;
+    padding: 0;height: 34px;}
+.modify_row .form-control{    height: 34px;
+    background: none;
+    color: #fff;
+    border: none;
+    border-bottom: 1px solid hsla(224, 41%, 55%, 0.66);
+    padding-left: 2px;}
+.nmoney button{background-color:#ed8a2e !important;border-color:1px solid #ed8a2e !important;}
+.dashboard .form-group{margin-left:0px;}
+.dashboard .form-group .col-xs-12{padding-left:0px;padding-right:0px;}
+.dashboard form label{font-size:14px;}
+.dashboard .form-group .form-control{width:32% !important;border-radius:0px;}
+.dashboard .dataTables_wrapper .dataTables_filter input{border:1px solid #263f85;}
+.dashboard table.dataTable.no-footer{border-bottom:1px solid #263f85;}
+.dashboard table.dataTable thead th{border-bottom:1px solid #263f85;}
+.dashboard .dataTables_wrapper .dataTables_paginate .paginate_button.current,.dashboard .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{border:1px solid #ed8a2e;background-color:#fbb000;color:#fff !important;background-image:none;}
+.main_filter{background-color:#263f85;}
+.main_filter h1{font-size:16px;margin:0px;padding:8px 0px;color:#fff;text-align:center;}
+.p120{padding-left:20px !important;}
+.pfilter .btn{float:right;margin-right:18px;margin-top:20px;background-color:#ed8a2e;border-color:#ed8a2e;}
+.gray-area{background-color:#ddd !important;}
+#wallet .box-title{padding-left:100px;}
+.fly_epoint{padding-left:10px;color:#333;}
+.bepoint{border-radius:0px;}
+.gray-area .dashboard .tab-content{box-shadow:0px 6px 7px;}
+#profile .term-description dd{color:#333;font-weight:bold;}
+#profile .details{margin-left:10px;}
+.circle li{color:#333;font-size:14px;}
+#wallet .minput{padding-left:0px !important;padding-top:5px;}
+#wallet .nmoney button{font-size:12px;}
+.rwallet .value{float:left;}
+.rwallet .text{padding-left:10px;}
+#MyModalForFareRule .close{background-color:#ed8a2e;width:26px;height:26px;border-radius:50%;color:#fff;opacity:1;}
+#MyModalForFareRule p{line-height:24px;text-align:justify;font-size:14px;}
+.radio_dv5 label:hover{color:#ffffff;}
+.anchor-soap-popupbox, .soap-popupbox{padding:0 15px;margin:0;text-align:center;text-decoration:none;color:#5b6270;font-size:15px;font-weight:700;text-transform:capitalize;border-bottom:1px solid #fff;display:block;overflow:hidden;-webkit-transition:all .2s;-moz-transition:all .2s;-ms-transition:all .2s;-o-transition:all .2s;transition:all .2s}
+.anchor-soap-popupbox>span,.soap-popupbox>span{position:relative;display:inline-block;-webkit-transition:-webkit-transform .3s;-moz-transition:-moz-transform .3s;transition:transform .3s}
+.anchor-soap-popupbox>span:after,.soap-popupbox>span:after{position:absolute;top:200%;left:0;content:attr(data-hover);color:#2C83B6;}
+.anchor-soap-popupbox:focus span,
+.soap-popupbox:focus span,
+.anchor-soap-popupbox:hover span,
+.soap-popupbox:hover span{-webkit-transform:translateY(-200%);-moz-transform:translateY(-200%);transform:translateY(-200%);}
+.flight_agent li a:hover{border-top:2px solid #3081d2;}
+.zindexad{z-index:99999 !important;}
+.zindexad .ui-datepicker-month, .zindexad .ui-datepicker-year{background:#fab000;}
+.special_deal{margin-top:2%;}
+.packdetailstabpanel .nav-tabs>li>a{padding:10px 4px !important;font-size:13px !important;}
+#myModal_enquery .modal-body{padding-top:0;padding-bottom:0;}
+#myModal_enquery .modal-footer{background:none;border:none;padding-top:0;padding-bottom:0;margin-top:0;}
+#myModal_enquery .send_query{background:#005f8a;margin-top:0;margin-bottom:20px;}
+#myModal_enquery .qry_shadow1{display:none;}
+#sendquery_package_details>div{margin-bottom:15px;}
+#sendquery_package_details>div label{text-transform:capitalize;}
+.tour-details-selected-pack-col .coninfo{margin:initial !important;margin-top:15px !important;}
+.tour-details-selected-pack-col .coninfo>span{font-size:15px !important;padding-left:0 !important;padding-right:0 !important;}
+.tour-details-fullinfo-col .itnry_ul_grabber{margin-top:15px;margin-bottom:15px;}
+#InclusionExclusion{margin-top:20px !important;}
+.shwo_room1{padding:8px 7px !important;}
+.rum-img{background:#005f8a !important;width:100%;height:30px;float:left;display:block;padding:0px;color:#FFF;margin:29px 0px 0px 0px;border-top:1px solid #6f6e6e;}
+.raj_confbody .signinup{text-align:left;margin:0px;font-size:18px;font-weight:bold;}
+#calendarModal .modal-title{text-transform:capitalize;}
+#calendarModal .form-control{height:34px;}
+.shwo_room1{width:80px !important;text-align:center !important;font-size:14px !important;}
+.raj_detailsw samp{font-family:inherit;}
+.shwo_room1:before{background:#005f8a !important;}
+.raj_detailsw{color:#ffffff;}
+#calendarModal .rum-img{height:35px;}
+#calendarModal .nopd{padding:0px;}
+#calendarModal .raj_detailsw{padding-top:4px;}
+#calendarModal .raj_addroom{cursor:pointer;}
+#calendarModal form label{font-size:12px;margin-top:5px;margin-bottom:3px;}
+#calendarModal .raj_confbody{padding:0px;}
+#calendarModal .raj_confbody .textsty,#calendarModal .raj_confbody .textsty>div{padding-right:0px;}
+#calendarModal .raj_confbody .textsty .raj_text{width: 45%; float: left; text-align: right; padding-right: 13px; text-transform: capitalize; font-size: 14px; margin-top: 9px;}
+.textsty .form-control{width:55%;border-radius:0px;margin-bottom:11px;float:right;}
+#calendarModal .raj_confbody>.row.no-margin-lr{margin-left:initial;margin-right:initial;float:left;width:100%;}
+#calendarModal .duration{padding-top:10px;width:100%;margin-bottom:0px;}
+.getpaxinformationfluid{padding-top:15px;padding-bottom:50px;border-bottom:1px solid #dddddd; border-top:1px solid #dddddd;}
+.getpaxinformationfluidrow>div>div{background:#ffffff;padding:0px 15px;padding-bottom:15px;}
+.totalmoney{font-weight:bold;font-size:16px;margin-top:15px;margin-bottom:15px;color:#2b2e90;}
+.getpaxhead{font-size:16px;color:#263f85;font-weight:bold;margin-top:15px;margin-bottom:15px;}
+.getpaxtinforow span{font-size:14px;color:#000000;font-weight:bold;display:block;margin-bottom:15px;}
+.getpaxtrow{margin-bottom:15px;padding-bottom:15px;border-bottom:1px solid #f5f5f5;}
+.getpaxinformationfluidrow .getpaxtrow:last-of-type{margin-bottom:0;border-bottom:0;padding-bottom:0;}
+.getpaxtrow span,.getpaxtrow b{font-size:14px;color:#000000;display:inline-block;}
+.getpaxtrow b{font-size:12px;color:#2b2e90;}
+.getpaxtrow .inputtext{-webkit-border-radius:3px;-moz-border-radius:3px;-ms-border-radius:3px;-o-border-radius:3px;border-radius:3px;height:34px;padding:7px 15px;border:1px solid #dddddd;outline:0;width:100%;background:#f5f5f5;}
+.getpaxtrow textarea.inputtext{min-height:80px;}
+.getpaxtrow span.mb5{display:block;margin-bottom:5px;}
+.ttitle{padding-left:55%;}
+.litlemt{margin-top:7px;}
+.getpaxtrow p{font-weight:bold;margin-bottom:8px;padding-left:15px;}
+.getpaxtrow ol{list-style-type:upper-alpha !important;padding-left:45px !important;}
+.tacond{margin-top:15px;}
+.tacond input{margin-top:0;height:16px;width:16px;position:relative;top:3px;margin-right:10px;}
+.whatpackimg{width:100%;display:block;margin-bottom:15px;}
+.whatpackgecol ul{}
+.whatpackgecol ul li>*{padding:7px 7px;color:#000000;float:left;width:50%;display:block;border:1px solid #f5f5f5;font-size:13px;}
+.tour-result-list-box .form-group{margin-bottom:0;}
+.packmaindv{padding:15px;background-color:#fff;}
+.border2{border:none;margin-bottom:15px;}
+.packmaindv{padding-top:0;}
+#main .travelo-box h2, .packmaindv h2.hh, h2.hed2{border:1px solid #eae7e7;background:#f5f5f5;color:#333333;font-size:17px;padding:5px 11px;margin:0px;float:left;width:100%;line-height:29px;margin-top:15px;}
+.nopd{padding:0px;}
+.pax_main h2.pax{background-color:#005f8a;color:#fff;font-size:14px;padding:11px 15px;text-align:center;text-transform:uppercase;margin-bottom:31px;}
+.packmaindv h2.pax{margin-top:10px;margin-bottom:10px;}
+.pax_main select.title_select, .pax_main .date_text{border:none;background:none;border-bottom:1px solid #ccc;margin-top:9px;margin-bottom:5px;}
+.booking-information .booking-confirmation{margin-top:15px;float:left;clear:both;width:100%;}
+.fc button .fc-icon{top:-3px !important;}
+.video_section{padding-top:50px;padding-bottom:50px;position: relative; background-image:url(../images/images-helicopter_video.jpg);background-size:cover;background-blend-mode:multiply;background-attachment:fixed;margin:50px 0 0;}
+.video_section .travel_deal h5{color:#ed8a2e;font-size:17px;}
+.video_section .travel_deal p{color:#e2dede;font-size:13px;}
+.video_section_holidays{background-image:url(../images/images-holidays_coverimg.jpg);    background-color: aliceblue;position: relative;}
+.video_section_holidays:before, .howWork:before {
+    content: '';
+    position: absolute;
+    background: linear-gradient(to right, rgba(22, 40, 105, 0.91) 46%, rgba(0, 0, 0, 0.41) 100%);
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;}
+.video_section_holidays p.description{color: #999999;font-size: 14px;}
+.video_section_holidays h4.box-title{color: #ed8a2e;}
+.bookings_box .bos_head{text-align:center;}
+.bookings_box{padding:50px 0;background-color:#ebf2f7;}
+.bookings_box .bos_head h2{font-size:26px;margin-bottom:30px;}
+.bookings_box .booking-boxs h4{text-align:center;line-height:28px;margin-bottom:10px;margin-top:15px;font-size:18px;-webkit-text-shadow:0 0px 0px #000000;-moz-text-shadow:0 0px 0px #000000;-o-text-shadow:0 0px 0px #000000;text-shadow:0 0px 0px #000000;color:#263f85;}
+.bookings_box .booking-boxs div.whytitle{text-align:center;line-height:28px;margin-bottom:10px;margin-top:15px;font-size:18px;-webkit-text-shadow:0 0px 0px #000000;-moz-text-shadow:0 0px 0px #000000;-o-text-shadow:0 0px 0px #000000;text-shadow:0 0px 0px #000000;color:#263f85;}
+.bookings_box .booking-boxs p{text-align:center;font-size:15px;color:#525252;padding:2px 0px;line-height:22px;}
+.bookings_box .booking-boxs{text-align:center;}
+.bookings_box .iconsup{background-image:url(../images/images-b2bsprite_icon.png);width:82px;height:82px;display:block;background-position:-13px -285px;margin-left:39%;}
+.bookings_box .Suport{background-position:-136px -284px;}
+.bookings_box .Knowledge{background-position:-262px -285px;}
+.Go2flyftr .f_nav h2{color:#fff;margin-top:0;text-transform:uppercase;font-weight:400;margin-bottom:15px;font-size:18px;}
+.Go2flyftr .f_nav h6{color:#fff;margin-top:0;text-transform:uppercase;font-weight:400;margin-bottom:15px;font-size:18px;}
+.Go2flyftr footer{background-color:#333;padding:30px 0;}
+.Go2flyftr footer .f_nav .fa{display:initial;padding-right:6px;color:#a09c9c;}
+.Go2flyftr footer .f_nav li a{color:#929292;transition:all .3s;font-size:14px;}
+.Go2flyftr footer li{padding-top:5px;padding-bottom:5px;}
+.Go2flyftr footer .f_nav li a:hover{color:#00bcd4;padding-left:10px;transition:all .3s;}
+.Go2flyftr footer .f_nav .footer-info{float:left;margin-bottom:10px;padding-top:10px;width:100%;}
+.Go2flyftr footer .f_nav .footer-info i{float:left;padding-top:2px;font-size:19px;border-radius:50%;text-align:center;color:#929292;}
+.Go2flyftr footer .f_nav .footer-info p{padding-left:45px;font-family:helvetica neue,Helvetica,Arial,sans-serif;color:#929292;margin-bottom:0;}
+.Go2flyftr footer .f_nav .footer-info p a{color:#929292;}
+.Go2flyftr .join_bg{background-repeat:repeat;background-image:url(../images/images-sunsetnews_litter.jpg);background-size:cover;background-blend-mode:multiply;background-color:#6c6e6f;background-attachment:fixed;left:0;width:100%;}
+.Go2flyftr .join_bg .center{padding:100px 0 70px;text-align:center;}
+.Go2flyftr .join_bg .center h3, .Go2flyftr .join_bg .center p{color:#fff;}
+.Go2flyftr .join_bg .center .list_icon li{display:inline-block;}
+.Go2flyftr .join_bg .center .list_icon{margin:20px 0;}
+.Go2flyftr .join_bg .center .list_icon li>a>i{color:#fff;font-size:25px;margin-right:15px;}
+.Go2flyftr .join_bg .center form{width:50%;margin:0 auto;}
+.Go2flyftr .join_bg .center #email_ids{height:42px;border-radius:4px 0 0 4px;}
+.Go2flyftr .join_bg .center .subscribe{height:42px;border-radius:0 4px 4px 0;margin-top:0;background:linear-gradient(to bottom,#ed8a2e,#ed8a2e);text-transform:uppercase;}
+.Go2flyftr .footer-end{background-color:#ed8a2e;padding-top:15px;padding-bottom:0;border-top:1px solid #ed1c24;}
+.Go2flyftr .footer-end .copy_right p{color:#fff;font-size:14px;margin-bottom:0;text-align:center;text-transform:uppercase;}
+.Go2flyftr .center h3{font-size:24px;}
+.Go2flyftr .center p{font-size:16px;margin-bottom:20px;}
+
+
+div.contacts_add{}
+div.contacts_add h4, div.contacts_fom h4{font-size: 22px; font-weight: bold; font-family: 'Quicksand', sans-serif;}
+div.contacts_add p{margin-bottom: 5px; padding-left: 27px; position: relative;}
+div.contacts_add p i.fa{font-size: 21px; padding-right: 6px; position: absolute; left: 0px; top: 4px;}
+div.contacts_add p i.fa-envelope{font-size: 18px;}
+div.contacts_add p samp{font-family: 'Quicksand', sans-serif; font-size: 16px;}
+ 
+div.wrap_conts{padding-left: 12%;}
+div.contacts_fom{border-left: 1px solid #ccc; padding-left: 25px; margin-bottom: 30px;margin-left: 12%;}
+div.contacts_fom h4{padding-left: 15px;}
+div.contacts_fom label{}
+div.contacts_fom .form-control{ background-color: #f5f5f5;   border: none; box-shadow: 0 0 0; border-bottom: 1px solid #ccc; border-radius: 0px; font-family: 'Quicksand', sans-serif; padding-left: 2px;}
+div.contacts_fom .sendcontact{background-color: #ed8a2e; border: #ed8a2e; border-radius: 5px; font-weight: normal; font-size: 23px; font-family: 'Quicksand', sans-serif; height: 44px;}
+div.contacts_fom .sendcontact:hover{background-color: #263f85;border-color: #263f85;}
+.conmapsdo{background: #ffffff; box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12); -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);}
